@@ -1,4 +1,8 @@
+require 'pry'
+
 class TicTacToe
+  
+attr_accessor
 
   WIN_COMBINATIONS = [
     [0, 1, 2],
